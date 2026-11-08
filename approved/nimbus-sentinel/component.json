@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0053",
+  "description": "Exposes the shared build API used by product teams.",
+  "language": "python",
+  "name": "Nimbus Sentinel",
+  "owner": "Team Iris",
+  "slug": "nimbus-sentinel",
+  "version": "1.7.2"
+}

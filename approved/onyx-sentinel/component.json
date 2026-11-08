@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0039",
+  "description": "Handles sharding and routing for internal build traffic.",
+  "language": "rust",
+  "name": "Onyx Sentinel",
+  "owner": "Team Delta",
+  "slug": "onyx-sentinel",
+  "version": "3.2.8"
+}

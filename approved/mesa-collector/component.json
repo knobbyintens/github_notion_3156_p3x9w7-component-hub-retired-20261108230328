@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0029",
+  "description": "Exposes the shared identity API used by product teams.",
+  "language": "python",
+  "name": "Mesa Collector",
+  "owner": "Team Iris",
+  "slug": "mesa-collector",
+  "version": "1.1.8"
+}

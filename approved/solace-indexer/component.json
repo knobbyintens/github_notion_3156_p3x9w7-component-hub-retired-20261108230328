@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0050",
+  "description": "Keeps the platform identity layer observable and healthy.",
+  "language": "go",
+  "name": "Solace Indexer",
+  "owner": "Team Cobalt",
+  "slug": "solace-indexer",
+  "version": "2.4.9"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0038",
+  "description": "Keeps the platform telemetry layer observable and healthy.",
+  "language": "go",
+  "name": "Mesa Sentinel",
+  "owner": "Team Cobalt",
+  "slug": "mesa-sentinel",
+  "version": "2.1.7"
+}

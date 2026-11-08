@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0048",
+  "description": "Watches quality thresholds and raises alerts for storage drift.",
+  "language": "typescript",
+  "name": "Basalt Registry",
+  "owner": "Team Quartz",
+  "slug": "basalt-registry",
+  "version": "4.2.7"
+}
