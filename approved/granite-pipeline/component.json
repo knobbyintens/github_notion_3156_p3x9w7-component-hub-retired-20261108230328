@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0121",
+  "description": "Provides the core request path for the Granite Pipeline workloads.",
+  "language": "python",
+  "name": "Granite Pipeline",
+  "owner": "Team Atlas",
+  "slug": "granite-pipeline",
+  "version": "1.3.0"
+}

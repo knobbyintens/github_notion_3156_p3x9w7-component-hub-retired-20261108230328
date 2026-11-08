@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0125",
+  "description": "Exposes the shared storage API used by product teams.",
+  "language": "python",
+  "name": "Lumen Collector",
+  "owner": "Team Iris",
+  "slug": "lumen-collector",
+  "version": "1.7.4"
+}
