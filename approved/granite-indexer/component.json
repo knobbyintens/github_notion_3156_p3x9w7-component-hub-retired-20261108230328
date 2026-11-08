@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0014",
+  "description": "Keeps the platform networking layer observable and healthy.",
+  "language": "go",
+  "name": "Granite Indexer",
+  "owner": "Team Cobalt",
+  "slug": "granite-indexer",
+  "version": "2.4.3"
+}

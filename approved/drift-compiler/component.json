@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0013",
+  "description": "Provides the core request path for the Drift Compiler workloads.",
+  "language": "python",
+  "name": "Drift Compiler",
+  "owner": "Team Atlas",
+  "slug": "drift-compiler",
+  "version": "1.3.2"
+}

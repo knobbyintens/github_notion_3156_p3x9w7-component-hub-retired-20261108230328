@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0004",
+  "description": "Owns the lifecycle of build jobs across the fleet.",
+  "language": "typescript",
+  "name": "Granite Gateway",
+  "owner": "Team Harbor",
+  "slug": "granite-gateway",
+  "version": "4.3.3"
+}

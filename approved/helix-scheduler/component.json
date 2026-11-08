@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0021",
+  "description": "Handles sharding and routing for internal networking traffic.",
+  "language": "python",
+  "name": "Helix Scheduler",
+  "owner": "Team Meridian",
+  "slug": "helix-scheduler",
+  "version": "1.2.0"
+}

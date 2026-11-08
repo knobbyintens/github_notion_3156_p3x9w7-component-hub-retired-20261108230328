@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0010",
+  "description": "Owns the lifecycle of telemetry jobs across the fleet.",
+  "language": "go",
+  "name": "Mesa Router",
+  "owner": "Team Nimbus",
+  "slug": "mesa-router",
+  "version": "2.0.9"
+}

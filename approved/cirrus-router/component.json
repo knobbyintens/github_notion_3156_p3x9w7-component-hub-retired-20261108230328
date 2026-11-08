@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0008",
+  "description": "Keeps the platform identity layer observable and healthy.",
+  "language": "typescript",
+  "name": "Cirrus Router",
+  "owner": "Team Lumen",
+  "slug": "cirrus-router",
+  "version": "4.7.7"
+}
