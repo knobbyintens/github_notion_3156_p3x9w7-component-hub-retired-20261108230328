@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0087",
+  "description": "Handles sharding and routing for internal telemetry traffic.",
+  "language": "rust",
+  "name": "Juniper Router",
+  "owner": "Team Delta",
+  "slug": "juniper-router",
+  "version": "3.5.6"
+}

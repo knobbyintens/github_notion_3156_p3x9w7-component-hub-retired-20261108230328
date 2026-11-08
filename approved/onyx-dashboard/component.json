@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0088",
+  "description": "Owns the lifecycle of build jobs across the fleet.",
+  "language": "typescript",
+  "name": "Onyx Dashboard",
+  "owner": "Team Harbor",
+  "slug": "onyx-dashboard",
+  "version": "4.6.7"
+}

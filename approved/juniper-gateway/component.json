@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0090",
+  "description": "Watches quality thresholds and raises alerts for storage drift.",
+  "language": "go",
+  "name": "Juniper Gateway",
+  "owner": "Team Juniper",
+  "slug": "juniper-gateway",
+  "version": "2.8.9"
+}

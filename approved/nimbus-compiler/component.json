@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0109",
+  "description": "Provides the core request path for the Nimbus Compiler workloads.",
+  "language": "python",
+  "name": "Nimbus Compiler",
+  "owner": "Team Atlas",
+  "slug": "nimbus-compiler",
+  "version": "1.0.8"
+}

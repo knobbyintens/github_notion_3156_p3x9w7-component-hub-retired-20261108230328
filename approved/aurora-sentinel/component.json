@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0111",
+  "description": "Handles sharding and routing for internal storage traffic.",
+  "language": "rust",
+  "name": "Aurora Sentinel",
+  "owner": "Team Delta",
+  "slug": "aurora-sentinel",
+  "version": "3.2.0"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0084",
+  "description": "Watches quality thresholds and raises alerts for networking drift.",
+  "language": "typescript",
+  "name": "Ember Pipeline",
+  "owner": "Team Quartz",
+  "slug": "ember-pipeline",
+  "version": "4.2.3"
+}

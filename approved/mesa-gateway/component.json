@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0098",
+  "description": "Keeps the platform networking layer observable and healthy.",
+  "language": "go",
+  "name": "Mesa Gateway",
+  "owner": "Team Cobalt",
+  "slug": "mesa-gateway",
+  "version": "2.7.7"
+}
