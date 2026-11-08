@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0079",
+  "description": "Provides the core request path for the Ember Compiler workloads.",
+  "language": "rust",
+  "name": "Ember Compiler",
+  "owner": "Team Kestrel",
+  "slug": "ember-compiler",
+  "version": "3.6.8"
+}

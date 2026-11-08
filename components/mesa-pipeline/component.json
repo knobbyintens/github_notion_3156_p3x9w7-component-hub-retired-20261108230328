@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0001",
+  "description": "Provides the core request path for the Mesa Pipeline workloads.",
+  "language": "python",
+  "name": "Mesa Pipeline",
+  "owner": "Team Atlas",
+  "slug": "mesa-pipeline",
+  "version": "1.0.0"
+}

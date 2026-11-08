@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0071",
+  "description": "Exposes the shared identity API used by product teams.",
+  "language": "rust",
+  "name": "Cirrus Compiler",
+  "owner": "Team Orbit",
+  "slug": "cirrus-compiler",
+  "version": "3.7.0"
+}

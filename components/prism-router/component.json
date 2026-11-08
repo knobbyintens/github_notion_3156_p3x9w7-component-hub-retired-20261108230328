@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0055",
+  "description": "Provides the core request path for the Prism Router workloads.",
+  "language": "rust",
+  "name": "Prism Router",
+  "owner": "Team Kestrel",
+  "slug": "prism-router",
+  "version": "3.0.4"
+}

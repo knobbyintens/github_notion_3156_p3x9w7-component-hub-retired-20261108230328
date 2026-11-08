@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0067",
+  "description": "Provides the core request path for the Aurora Collector workloads.",
+  "language": "rust",
+  "name": "Aurora Collector",
+  "owner": "Team Kestrel",
+  "slug": "aurora-collector",
+  "version": "3.3.6"
+}

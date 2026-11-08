@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0073",
+  "description": "Provides the core request path for the Onyx Compiler workloads.",
+  "language": "python",
+  "name": "Onyx Compiler",
+  "owner": "Team Atlas",
+  "slug": "onyx-compiler",
+  "version": "1.0.2"
+}

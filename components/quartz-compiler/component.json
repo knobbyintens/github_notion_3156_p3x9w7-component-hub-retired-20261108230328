@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0100",
+  "description": "Owns the lifecycle of billing jobs across the fleet.",
+  "language": "typescript",
+  "name": "Quartz Compiler",
+  "owner": "Team Harbor",
+  "slug": "quartz-compiler",
+  "version": "4.0.9"
+}

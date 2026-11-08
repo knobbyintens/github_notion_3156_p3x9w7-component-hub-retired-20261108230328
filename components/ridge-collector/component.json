@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0124",
+  "description": "Owns the lifecycle of delivery jobs across the fleet.",
+  "language": "typescript",
+  "name": "Ridge Collector",
+  "owner": "Team Harbor",
+  "slug": "ridge-collector",
+  "version": "4.6.3"
+}

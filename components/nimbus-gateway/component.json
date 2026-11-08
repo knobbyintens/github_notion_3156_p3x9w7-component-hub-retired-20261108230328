@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0005",
+  "description": "Exposes the shared delivery API used by product teams.",
+  "language": "python",
+  "name": "Nimbus Gateway",
+  "owner": "Team Iris",
+  "slug": "nimbus-gateway",
+  "version": "1.4.4"
+}

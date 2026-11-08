@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0078",
+  "description": "Watches quality thresholds and raises alerts for identity drift.",
+  "language": "go",
+  "name": "Kestrel Collector",
+  "owner": "Team Juniper",
+  "slug": "kestrel-collector",
+  "version": "2.5.7"
+}

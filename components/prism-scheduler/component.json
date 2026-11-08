@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0015",
+  "description": "Handles sharding and routing for internal identity traffic.",
+  "language": "rust",
+  "name": "Prism Scheduler",
+  "owner": "Team Delta",
+  "slug": "prism-scheduler",
+  "version": "3.5.4"
+}

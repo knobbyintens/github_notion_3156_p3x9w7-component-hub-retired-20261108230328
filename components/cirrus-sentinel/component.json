@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0128",
+  "description": "Keeps the platform billing layer observable and healthy.",
+  "language": "typescript",
+  "name": "Cirrus Sentinel",
+  "owner": "Team Lumen",
+  "slug": "cirrus-sentinel",
+  "version": "4.1.7"
+}

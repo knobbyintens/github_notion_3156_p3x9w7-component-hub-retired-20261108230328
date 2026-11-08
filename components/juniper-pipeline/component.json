@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0081",
+  "description": "Handles sharding and routing for internal build traffic.",
+  "language": "python",
+  "name": "Juniper Pipeline",
+  "owner": "Team Meridian",
+  "slug": "juniper-pipeline",
+  "version": "1.8.0"
+}

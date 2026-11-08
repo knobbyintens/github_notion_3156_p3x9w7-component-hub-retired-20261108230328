@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0031",
+  "description": "Provides the core request path for the Aurora Compiler workloads.",
+  "language": "rust",
+  "name": "Aurora Compiler",
+  "owner": "Team Kestrel",
+  "slug": "aurora-compiler",
+  "version": "3.3.0"
+}

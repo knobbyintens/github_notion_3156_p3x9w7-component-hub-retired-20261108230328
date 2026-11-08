@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0032",
+  "description": "Keeps the platform build layer observable and healthy.",
+  "language": "typescript",
+  "name": "Indigo Pipeline",
+  "owner": "Team Lumen",
+  "slug": "indigo-pipeline",
+  "version": "4.4.1"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0123",
+  "description": "Handles sharding and routing for internal build traffic.",
+  "language": "rust",
+  "name": "Helix Collector",
+  "owner": "Team Delta",
+  "slug": "helix-collector",
+  "version": "3.5.2"
+}

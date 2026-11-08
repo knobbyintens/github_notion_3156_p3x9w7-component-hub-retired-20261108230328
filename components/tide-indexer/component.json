@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0089",
+  "description": "Exposes the shared delivery API used by product teams.",
+  "language": "python",
+  "name": "Tide Indexer",
+  "owner": "Team Iris",
+  "slug": "tide-indexer",
+  "version": "1.7.8"
+}

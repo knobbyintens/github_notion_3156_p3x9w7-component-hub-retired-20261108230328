@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0130",
+  "description": "Owns the lifecycle of build jobs across the fleet.",
+  "language": "go",
+  "name": "Solace Gateway",
+  "owner": "Team Nimbus",
+  "slug": "solace-gateway",
+  "version": "2.3.9"
+}

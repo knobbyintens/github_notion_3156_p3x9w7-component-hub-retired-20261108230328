@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0119",
+  "description": "Exposes the shared networking API used by product teams.",
+  "language": "rust",
+  "name": "Mesa Scheduler",
+  "owner": "Team Orbit",
+  "slug": "mesa-scheduler",
+  "version": "3.1.8"
+}

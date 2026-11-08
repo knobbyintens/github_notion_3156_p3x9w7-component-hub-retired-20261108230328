@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0118",
+  "description": "Owns the lifecycle of storage jobs across the fleet.",
+  "language": "go",
+  "name": "Indigo Registry",
+  "owner": "Team Nimbus",
+  "slug": "indigo-registry",
+  "version": "2.0.7"
+}

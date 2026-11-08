@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0116",
+  "description": "Keeps the platform build layer observable and healthy.",
+  "language": "typescript",
+  "name": "Kestrel Compiler",
+  "owner": "Team Lumen",
+  "slug": "kestrel-compiler",
+  "version": "4.7.5"
+}

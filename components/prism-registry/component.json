@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0077",
+  "description": "Exposes the shared networking API used by product teams.",
+  "language": "python",
+  "name": "Prism Registry",
+  "owner": "Team Iris",
+  "slug": "prism-registry",
+  "version": "1.4.6"
+}

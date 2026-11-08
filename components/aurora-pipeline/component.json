@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0085",
+  "description": "Provides the core request path for the Aurora Pipeline workloads.",
+  "language": "python",
+  "name": "Aurora Pipeline",
+  "owner": "Team Atlas",
+  "slug": "aurora-pipeline",
+  "version": "1.3.4"
+}

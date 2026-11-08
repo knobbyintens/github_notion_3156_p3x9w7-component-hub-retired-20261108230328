@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0022",
+  "description": "Owns the lifecycle of identity jobs across the fleet.",
+  "language": "go",
+  "name": "Lumen Scheduler",
+  "owner": "Team Nimbus",
+  "slug": "lumen-scheduler",
+  "version": "2.3.1"
+}

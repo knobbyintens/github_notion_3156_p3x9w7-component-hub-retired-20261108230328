@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0052",
+  "description": "Owns the lifecycle of telemetry jobs across the fleet.",
+  "language": "typescript",
+  "name": "Ridge Sentinel",
+  "owner": "Team Harbor",
+  "slug": "ridge-sentinel",
+  "version": "4.6.1"
+}

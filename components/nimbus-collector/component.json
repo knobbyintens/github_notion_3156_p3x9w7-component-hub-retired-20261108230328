@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0002",
+  "description": "Keeps the platform billing layer observable and healthy.",
+  "language": "go",
+  "name": "Nimbus Collector",
+  "owner": "Team Cobalt",
+  "slug": "nimbus-collector",
+  "version": "2.1.1"
+}

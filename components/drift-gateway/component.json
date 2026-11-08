@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0080",
+  "description": "Keeps the platform telemetry layer observable and healthy.",
+  "language": "typescript",
+  "name": "Drift Gateway",
+  "owner": "Team Lumen",
+  "slug": "drift-gateway",
+  "version": "4.7.9"
+}

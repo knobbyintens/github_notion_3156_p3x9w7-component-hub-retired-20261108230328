@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0103",
+  "description": "Provides the core request path for the Quartz Scheduler workloads.",
+  "language": "rust",
+  "name": "Quartz Scheduler",
+  "owner": "Team Kestrel",
+  "slug": "quartz-scheduler",
+  "version": "3.3.2"
+}

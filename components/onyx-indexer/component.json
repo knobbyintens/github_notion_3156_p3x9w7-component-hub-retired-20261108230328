@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0047",
+  "description": "Exposes the shared delivery API used by product teams.",
+  "language": "rust",
+  "name": "Onyx Indexer",
+  "owner": "Team Orbit",
+  "slug": "onyx-indexer",
+  "version": "3.1.6"
+}

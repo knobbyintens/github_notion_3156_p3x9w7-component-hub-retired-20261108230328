@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0037",
+  "description": "Provides the core request path for the Kestrel Scheduler workloads.",
+  "language": "python",
+  "name": "Kestrel Scheduler",
+  "owner": "Team Atlas",
+  "slug": "kestrel-scheduler",
+  "version": "1.0.6"
+}

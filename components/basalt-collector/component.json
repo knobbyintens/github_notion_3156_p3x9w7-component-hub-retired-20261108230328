@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0025",
+  "description": "Provides the core request path for the Basalt Collector workloads.",
+  "language": "python",
+  "name": "Basalt Collector",
+  "owner": "Team Atlas",
+  "slug": "basalt-collector",
+  "version": "1.6.4"
+}

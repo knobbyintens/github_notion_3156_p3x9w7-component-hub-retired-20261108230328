@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0097",
+  "description": "Provides the core request path for the Nimbus Dashboard workloads.",
+  "language": "python",
+  "name": "Nimbus Dashboard",
+  "owner": "Team Atlas",
+  "slug": "nimbus-dashboard",
+  "version": "1.6.6"
+}

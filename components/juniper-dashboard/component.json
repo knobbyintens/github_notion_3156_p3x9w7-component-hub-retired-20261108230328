@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0045",
+  "description": "Handles sharding and routing for internal telemetry traffic.",
+  "language": "python",
+  "name": "Juniper Dashboard",
+  "owner": "Team Meridian",
+  "slug": "juniper-dashboard",
+  "version": "1.8.4"
+}

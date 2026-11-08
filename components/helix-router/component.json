@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0019",
+  "description": "Provides the core request path for the Helix Router workloads.",
+  "language": "rust",
+  "name": "Helix Router",
+  "owner": "Team Kestrel",
+  "slug": "helix-router",
+  "version": "3.0.8"
+}

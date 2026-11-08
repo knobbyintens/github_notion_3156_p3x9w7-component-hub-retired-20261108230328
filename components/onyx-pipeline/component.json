@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0095",
+  "description": "Exposes the shared build API used by product teams.",
+  "language": "rust",
+  "name": "Onyx Pipeline",
+  "owner": "Team Orbit",
+  "slug": "onyx-pipeline",
+  "version": "3.4.4"
+}

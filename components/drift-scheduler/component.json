@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0122",
+  "description": "Keeps the platform telemetry layer observable and healthy.",
+  "language": "go",
+  "name": "Drift Scheduler",
+  "owner": "Team Cobalt",
+  "slug": "drift-scheduler",
+  "version": "2.4.1"
+}

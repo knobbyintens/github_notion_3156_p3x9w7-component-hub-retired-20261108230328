@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0026",
+  "description": "Keeps the platform delivery layer observable and healthy.",
+  "language": "go",
+  "name": "Quartz Dashboard",
+  "owner": "Team Cobalt",
+  "slug": "quartz-dashboard",
+  "version": "2.7.5"
+}

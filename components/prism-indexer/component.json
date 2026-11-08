@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0104",
+  "description": "Keeps the platform storage layer observable and healthy.",
+  "language": "typescript",
+  "name": "Prism Indexer",
+  "owner": "Team Lumen",
+  "slug": "prism-indexer",
+  "version": "4.4.3"
+}

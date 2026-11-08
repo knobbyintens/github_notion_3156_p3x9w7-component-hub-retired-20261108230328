@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0074",
+  "description": "Keeps the platform build layer observable and healthy.",
+  "language": "go",
+  "name": "Solace Router",
+  "owner": "Team Cobalt",
+  "slug": "solace-router",
+  "version": "2.1.3"
+}

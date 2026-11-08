@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0070",
+  "description": "Owns the lifecycle of networking jobs across the fleet.",
+  "language": "go",
+  "name": "Aurora Registry",
+  "owner": "Team Nimbus",
+  "slug": "aurora-registry",
+  "version": "2.6.9"
+}

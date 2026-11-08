@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0108",
+  "description": "Watches quality thresholds and raises alerts for telemetry drift.",
+  "language": "typescript",
+  "name": "Basalt Scheduler",
+  "owner": "Team Quartz",
+  "slug": "basalt-scheduler",
+  "version": "4.8.7"
+}

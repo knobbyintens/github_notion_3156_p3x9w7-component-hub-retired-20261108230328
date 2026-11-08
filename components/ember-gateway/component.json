@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0114",
+  "description": "Watches quality thresholds and raises alerts for billing drift.",
+  "language": "go",
+  "name": "Ember Gateway",
+  "owner": "Team Juniper",
+  "slug": "ember-gateway",
+  "version": "2.5.3"
+}

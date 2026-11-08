@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0017",
+  "description": "Exposes the shared telemetry API used by product teams.",
+  "language": "python",
+  "name": "Fjord Compiler",
+  "owner": "Team Iris",
+  "slug": "fjord-compiler",
+  "version": "1.7.6"
+}

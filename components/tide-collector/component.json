@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0020",
+  "description": "Keeps the platform storage layer observable and healthy.",
+  "language": "typescript",
+  "name": "Tide Collector",
+  "owner": "Team Lumen",
+  "slug": "tide-collector",
+  "version": "4.1.9"
+}

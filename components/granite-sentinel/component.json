@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0007",
+  "description": "Provides the core request path for the Granite Sentinel workloads.",
+  "language": "rust",
+  "name": "Granite Sentinel",
+  "owner": "Team Kestrel",
+  "slug": "granite-sentinel",
+  "version": "3.6.6"
+}

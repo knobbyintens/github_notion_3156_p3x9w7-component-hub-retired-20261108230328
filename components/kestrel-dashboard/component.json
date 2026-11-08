@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0115",
+  "description": "Provides the core request path for the Kestrel Dashboard workloads.",
+  "language": "rust",
+  "name": "Kestrel Dashboard",
+  "owner": "Team Kestrel",
+  "slug": "kestrel-dashboard",
+  "version": "3.6.4"
+}

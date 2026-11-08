@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0006",
+  "description": "Watches quality thresholds and raises alerts for storage drift.",
+  "language": "go",
+  "name": "Quartz Registry",
+  "owner": "Team Juniper",
+  "slug": "quartz-registry",
+  "version": "2.5.5"
+}

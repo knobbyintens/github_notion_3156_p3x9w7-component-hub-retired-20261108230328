@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0041",
+  "description": "Exposes the shared storage API used by product teams.",
+  "language": "python",
+  "name": "Indigo Sentinel",
+  "owner": "Team Iris",
+  "slug": "indigo-sentinel",
+  "version": "1.4.0"
+}

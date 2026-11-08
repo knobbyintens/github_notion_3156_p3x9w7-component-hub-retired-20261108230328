@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0127",
+  "description": "Provides the core request path for the Fjord Sentinel workloads.",
+  "language": "rust",
+  "name": "Fjord Sentinel",
+  "owner": "Team Kestrel",
+  "slug": "fjord-sentinel",
+  "version": "3.0.6"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0042",
+  "description": "Watches quality thresholds and raises alerts for networking drift.",
+  "language": "go",
+  "name": "Ridge Dashboard",
+  "owner": "Team Juniper",
+  "slug": "ridge-dashboard",
+  "version": "2.5.1"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0028",
+  "description": "Owns the lifecycle of networking jobs across the fleet.",
+  "language": "typescript",
+  "name": "Indigo Scheduler",
+  "owner": "Team Harbor",
+  "slug": "indigo-scheduler",
+  "version": "4.0.7"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0033",
+  "description": "Handles sharding and routing for internal delivery traffic.",
+  "language": "python",
+  "name": "Ember Router",
+  "owner": "Team Meridian",
+  "slug": "ember-router",
+  "version": "1.5.2"
+}

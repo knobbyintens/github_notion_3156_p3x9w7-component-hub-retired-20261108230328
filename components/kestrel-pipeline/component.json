@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0102",
+  "description": "Watches quality thresholds and raises alerts for build drift.",
+  "language": "go",
+  "name": "Kestrel Pipeline",
+  "owner": "Team Juniper",
+  "slug": "kestrel-pipeline",
+  "version": "2.2.1"
+}

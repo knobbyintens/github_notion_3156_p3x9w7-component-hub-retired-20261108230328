@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0129",
+  "description": "Handles sharding and routing for internal telemetry traffic.",
+  "language": "python",
+  "name": "Nimbus Registry",
+  "owner": "Team Meridian",
+  "slug": "nimbus-registry",
+  "version": "1.2.8"
+}

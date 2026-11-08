@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0082",
+  "description": "Owns the lifecycle of delivery jobs across the fleet.",
+  "language": "go",
+  "name": "Helix Sentinel",
+  "owner": "Team Nimbus",
+  "slug": "helix-sentinel",
+  "version": "2.0.1"
+}

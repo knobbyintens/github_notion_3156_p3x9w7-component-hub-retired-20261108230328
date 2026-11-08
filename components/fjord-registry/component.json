@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0043",
+  "description": "Provides the core request path for the Fjord Registry workloads.",
+  "language": "rust",
+  "name": "Fjord Registry",
+  "owner": "Team Kestrel",
+  "slug": "fjord-registry",
+  "version": "3.6.2"
+}

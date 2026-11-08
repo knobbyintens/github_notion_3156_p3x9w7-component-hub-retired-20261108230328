@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0034",
+  "description": "Owns the lifecycle of storage jobs across the fleet.",
+  "language": "go",
+  "name": "Prism Sentinel",
+  "owner": "Team Nimbus",
+  "slug": "prism-sentinel",
+  "version": "2.6.3"
+}

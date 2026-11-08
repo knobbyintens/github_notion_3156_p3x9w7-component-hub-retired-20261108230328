@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0036",
+  "description": "Watches quality thresholds and raises alerts for identity drift.",
+  "language": "typescript",
+  "name": "Granite Router",
+  "owner": "Team Quartz",
+  "slug": "granite-router",
+  "version": "4.8.5"
+}

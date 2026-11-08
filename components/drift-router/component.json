@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0057",
+  "description": "Handles sharding and routing for internal identity traffic.",
+  "language": "python",
+  "name": "Drift Router",
+  "owner": "Team Meridian",
+  "slug": "drift-router",
+  "version": "1.2.6"
+}

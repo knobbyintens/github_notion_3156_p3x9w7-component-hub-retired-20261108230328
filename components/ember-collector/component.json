@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0064",
+  "description": "Owns the lifecycle of identity jobs across the fleet.",
+  "language": "typescript",
+  "name": "Ember Collector",
+  "owner": "Team Harbor",
+  "slug": "ember-collector",
+  "version": "4.0.3"
+}

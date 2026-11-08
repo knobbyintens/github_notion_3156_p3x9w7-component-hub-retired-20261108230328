@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0044",
+  "description": "Keeps the platform billing layer observable and healthy.",
+  "language": "typescript",
+  "name": "Indigo Gateway",
+  "owner": "Team Lumen",
+  "slug": "indigo-gateway",
+  "version": "4.7.3"
+}

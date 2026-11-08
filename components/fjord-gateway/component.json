@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0027",
+  "description": "Handles sharding and routing for internal storage traffic.",
+  "language": "rust",
+  "name": "Fjord Gateway",
+  "owner": "Team Delta",
+  "slug": "fjord-gateway",
+  "version": "3.8.6"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0009",
+  "description": "Handles sharding and routing for internal billing traffic.",
+  "language": "python",
+  "name": "Prism Collector",
+  "owner": "Team Meridian",
+  "slug": "prism-collector",
+  "version": "1.8.8"
+}

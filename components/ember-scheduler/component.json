@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0105",
+  "description": "Handles sharding and routing for internal networking traffic.",
+  "language": "python",
+  "name": "Ember Scheduler",
+  "owner": "Team Meridian",
+  "slug": "ember-scheduler",
+  "version": "1.5.4"
+}

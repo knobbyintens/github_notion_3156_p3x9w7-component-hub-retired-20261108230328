@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0068",
+  "description": "Keeps the platform delivery layer observable and healthy.",
+  "language": "typescript",
+  "name": "Kestrel Registry",
+  "owner": "Team Lumen",
+  "slug": "kestrel-registry",
+  "version": "4.4.7"
+}

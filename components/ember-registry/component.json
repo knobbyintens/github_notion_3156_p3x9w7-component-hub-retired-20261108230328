@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0112",
+  "description": "Owns the lifecycle of networking jobs across the fleet.",
+  "language": "typescript",
+  "name": "Ember Registry",
+  "owner": "Team Harbor",
+  "slug": "ember-registry",
+  "version": "4.3.1"
+}

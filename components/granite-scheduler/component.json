@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0117",
+  "description": "Handles sharding and routing for internal delivery traffic.",
+  "language": "python",
+  "name": "Granite Scheduler",
+  "owner": "Team Meridian",
+  "slug": "granite-scheduler",
+  "version": "1.8.6"
+}

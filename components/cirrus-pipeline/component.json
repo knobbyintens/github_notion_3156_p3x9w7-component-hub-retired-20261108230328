@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0091",
+  "description": "Provides the core request path for the Cirrus Pipeline workloads.",
+  "language": "rust",
+  "name": "Cirrus Pipeline",
+  "owner": "Team Kestrel",
+  "slug": "cirrus-pipeline",
+  "version": "3.0.0"
+}

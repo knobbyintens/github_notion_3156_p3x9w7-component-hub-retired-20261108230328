@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0003",
+  "description": "Handles sharding and routing for internal telemetry traffic.",
+  "language": "rust",
+  "name": "Indigo Indexer",
+  "owner": "Team Delta",
+  "slug": "indigo-indexer",
+  "version": "3.2.2"
+}

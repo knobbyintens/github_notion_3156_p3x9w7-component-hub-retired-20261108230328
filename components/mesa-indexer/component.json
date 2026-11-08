@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0110",
+  "description": "Keeps the platform delivery layer observable and healthy.",
+  "language": "go",
+  "name": "Mesa Indexer",
+  "owner": "Team Cobalt",
+  "slug": "mesa-indexer",
+  "version": "2.1.9"
+}

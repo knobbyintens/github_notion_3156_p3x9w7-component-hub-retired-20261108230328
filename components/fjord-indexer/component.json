@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0086",
+  "description": "Keeps the platform billing layer observable and healthy.",
+  "language": "go",
+  "name": "Fjord Indexer",
+  "owner": "Team Cobalt",
+  "slug": "fjord-indexer",
+  "version": "2.4.5"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0083",
+  "description": "Exposes the shared storage API used by product teams.",
+  "language": "rust",
+  "name": "Indigo Dashboard",
+  "owner": "Team Orbit",
+  "slug": "indigo-dashboard",
+  "version": "3.1.2"
+}

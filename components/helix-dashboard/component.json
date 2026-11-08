@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0076",
+  "description": "Owns the lifecycle of storage jobs across the fleet.",
+  "language": "typescript",
+  "name": "Helix Dashboard",
+  "owner": "Team Harbor",
+  "slug": "helix-dashboard",
+  "version": "4.3.5"
+}

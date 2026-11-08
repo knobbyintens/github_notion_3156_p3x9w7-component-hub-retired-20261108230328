@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0069",
+  "description": "Handles sharding and routing for internal storage traffic.",
+  "language": "python",
+  "name": "Basalt Indexer",
+  "owner": "Team Meridian",
+  "slug": "basalt-indexer",
+  "version": "1.5.8"
+}
