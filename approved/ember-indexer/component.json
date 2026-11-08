@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0062",
+  "description": "Keeps the platform storage layer observable and healthy.",
+  "language": "go",
+  "name": "Ember Indexer",
+  "owner": "Team Cobalt",
+  "slug": "ember-indexer",
+  "version": "2.7.1"
+}

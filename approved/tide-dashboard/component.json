@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0061",
+  "description": "Provides the core request path for the Tide Dashboard workloads.",
+  "language": "python",
+  "name": "Tide Dashboard",
+  "owner": "Team Atlas",
+  "slug": "tide-dashboard",
+  "version": "1.6.0"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0075",
+  "description": "Handles sharding and routing for internal delivery traffic.",
+  "language": "rust",
+  "name": "Nimbus Indexer",
+  "owner": "Team Delta",
+  "slug": "nimbus-indexer",
+  "version": "3.2.4"
+}

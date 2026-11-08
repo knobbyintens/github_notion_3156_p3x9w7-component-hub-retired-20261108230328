@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0066",
+  "description": "Watches quality thresholds and raises alerts for telemetry drift.",
+  "language": "go",
+  "name": "Quartz Pipeline",
+  "owner": "Team Juniper",
+  "slug": "quartz-pipeline",
+  "version": "2.2.5"
+}

@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0056",
+  "description": "Keeps the platform networking layer observable and healthy.",
+  "language": "typescript",
+  "name": "Ridge Router",
+  "owner": "Team Lumen",
+  "slug": "ridge-router",
+  "version": "4.1.5"
+}

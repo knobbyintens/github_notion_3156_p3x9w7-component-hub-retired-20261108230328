@@ -1,0 +1,9 @@
+{
+  "component_id": "CMP-0063",
+  "description": "Handles sharding and routing for internal networking traffic.",
+  "language": "rust",
+  "name": "Solace Pipeline",
+  "owner": "Team Delta",
+  "slug": "solace-pipeline",
+  "version": "3.8.2"
+}
